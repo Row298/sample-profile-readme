@@ -1,6 +1,6 @@
 ## 👏 Hi, I'm *Romen Miller*
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+_I am a Freshmen in UTSA that is specializing in cybersucrity._
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
